@@ -10,8 +10,10 @@ and this project adheres to [Semantic Versioning].
 - initial release
 
 <!-- Links -->
+
 [keep a changelog]: https://keepachangelog.com/en/1.0.0/
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
-[0.0.1]: https://github.com/Author/Repository/releases/tag/0.0.1
+
+[0.0.1]: https://gitlab.angrybits.pl/aws-services/terraform-modules/ssm/-/tags/0.0.1
